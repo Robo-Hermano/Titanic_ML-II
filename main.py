@@ -1,4 +1,4 @@
-#NOTE: like my other titanic code, I advise using jupyter / google colab, and running them the way I've blocked them
+#NOTE: like my other titanic code, I advise using jupyter / google colab, and running each block separately
 
 #block 1
 #import modules
